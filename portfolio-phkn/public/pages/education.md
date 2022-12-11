@@ -1,26 +1,17 @@
 # 👨‍🎓 Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`- today` [TUM Technical University Munich](https://www.tum.de)
+- **M. Sc. RCI Robotic, Cognition & Intelligence**
+- Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical ...
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
+`2017–2021` [TUM Technical University Munich](https://www.tum.de)
+- Arcisstraße 21, 80333 München
+- **B. SC. Information Systems / Wirtschaftsinformatik**
+- Courses: Algorithms, Linear Algebra, Analysis, Database Structure ... 
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+`2007-2016` [Gymnasium / High School: Otfried-Preußler-Gymnasium Pullach](https://www.opg-pullach.de)
+- **School graduation:** Allgemeine Hochschulreife / General university entrance qualification
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
+`2007` [Primary School: Rabenschule 4th grade](https://www.gs-pullach.de)
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2003-2006` [Primary School: Pater-Rupert-Mayer-Grundschule](https://www.prmvs.de)
