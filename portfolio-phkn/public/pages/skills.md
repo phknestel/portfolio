@@ -4,29 +4,28 @@
 - Architecture Design
 - Desktop App Development
 - Web Development (Frontend & Backend)
+- Robotic engeneering
+- Robotic Software Stack
+  - ROS
+  - Robotic Library
+- Unity 
 
 ## Programming languages
 - C# .NET
 - Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
 - C++
+- C
 - Java
-- VB.NET/VBA
 
 ## Databases
-- MSSQL
 - PostgreSQL
 - MySQL
-- SQLite
 
 ## Cloud
-- Azure
-- GCP
 - Heroku
-- Render
 
 ## Vcs
 - Git
+- Docker
