@@ -2,7 +2,8 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+Robotics student with experience in all stages of prototyping. Strong background in Unity and robot navigation in ROS as well as parameter tuning and fusion of sensor data.
+Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Stronger experience in web development, co-designed and built solutions.
 
 
 ## Experience
