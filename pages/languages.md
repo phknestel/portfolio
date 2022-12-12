@@ -1,3 +1,5 @@
 # 💬 Languages
+**German**: Native
 **English**: C1
-**Chinese**: Native
+**Turkish**: B1
+**French**: B1

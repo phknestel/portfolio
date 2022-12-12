@@ -7,82 +7,134 @@ Senior Software Developer specializing in web application development. Experienc
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+`10.2021 - today` **Research Assistant / Working Student** @ [TUM Technical University Munich | Chair of Robotics, Artificial Intelligence and Real-time Systems](https://www.ce.cit.tum.de/air/home/)
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+- Build / Implement a Robot Factory in Unity 
+  - Task:
+    - Variable environment to train and simulate different experiments with different robots in a virtual environment
+  - Structure:
+    - Random objects
+    - Pick&Place random objects
+    - Sorting station
+    - Mobile autonomous platforms to transport objects to the experiment modules
+    - Variable experiment modules
+    - ML-Agents station for testing
+- Build / Implement the google grasping experiment in Unity
+  - Implementation of the experiment setup
+  - Google object randomizer
+  - **Inverse Kinematik** interface for the [Robotic Library](https://www.roboticslibrary.org) by [Dr. rer. nat. markus Rickert](https://www.ce.cit.tum.de/air/people/dr-markus-rickert/)
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+`01.2020 - 09.2021` **Working Student** @ [Franka Emika](https://www.franka.de)
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+- R&D Future Tech
+
+- Bachelors Thesis: An augmented reality-based mobile application for visualizing robot models and robot states | Grade: 1.0
+
+- [SAM - Secure autonomous mobile robot](https://www.mirmi.tum.de/en/rsi/research/research-projects/sam/)
+  - Supervisor: 
+    - [Prof. Dr.-Ing. Sami Haddadin](https://www.mirmi.tum.de/en/rsi/team/haddadin-sami/)
+  - Researcher: 
+    - [Abdalla Swikir](https://www.msrm.tum.de/rsi/team/wissenschaftliche-mitarbeiter/swikir-abdalla/) - Senior scientist
+    - [Ph.D. Andriy Sarabakha](https://www.msrm.tum.de/rsi/team/wissenschaftliche-mitarbeiter/sarabakha-andriy/)
+    - [Mehmet Can Yildirim](https://www.msrm.tum.de/rsi/team/wissenschaftliche-mitarbeiter/yildirim-mehmet/)
+  - Partner:
+    - [Franka Emika](https://www.franka.de)
+    - [Artisense](https://www.artisense.ai/)
+    - [TQ](https://www.tq-group.com/de/)
+  - Funding: 
+    - [Bavarian State Ministry of Economic Affairs](https://www.stmwi.bayern.de/)
+  - Summary:
+    - The overall goal of this research project is to develop a novel mobile robot assistant. It is designed as an extensible multifunction platform for a wide range of transport and service tasks. The project focuses on two innovative core topics:
+      - Robust locomotion on various uneven surfaces
+      - Effortless usability and interaction with people in dynamic environments
+    - The motivation of these topics is above all the potential use of the robot in as many areas of the economy and public life as possible. The idea is that everyone can operate the robot, use it, and simply teach it to perform tasks. Challenges in security, physical interaction, intuitive usability, and learning ability have to be overcome.
+    - _**Technologies used:**_ C++, ROS, RViz, Python
+- Search and test an optional virtual test environment for robots similar to RViz
+
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+`06.2019 - 12.2019` **Working Student** @ [Franka Emika](https://www.franka.de)
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+- Sales Team
+
+- Rental robot inspection and repair
+
+- Market analysis
+
+&nbsp;
+
+`07.2018 - 06.2019` **Working Student** @ [LBS Bayern](https://www.lbs.de/?roid=1)
+
+- Human Resources Strategy
+
+- Resilience strategy and the corresponding learning video animation
+
+
+&nbsp;
+
+`02.2017 - 06.2018` **Working Student** @ [EQS-Group](https://www.eqs.com)
+
+- Corporate Communications
+- Review of annual and quarterly reports, as well as conversion from pdf to HTML.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`- today` [TUM Technical University Munich](https://www.tum.de)
+- **M. Sc. RCI Robotic, Cognition & Intelligence**
+- Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical ...
+- 120 ETCS
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
+`2017–2021` [TUM Technical University Munich](https://www.tum.de)
+- Arcisstraße 21, 80333 München
+- **B. SC. Information Systems / Wirtschaftsinformatik**
+- Courses: Algorithms, Linear Algebra, Analysis, Database Structure ... 
+- Bachelors thesis: An augmented reality-based mobile application for visualizing robot models and robot states | Grade: 1.0
+- 180 ECTS
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+`2007-2016` [Gymnasium / High School: Otfried-Preußler-Gymnasium Pullach](https://www.opg-pullach.de)
+- **School graduation:** Allgemeine Hochschulreife / General university entrance qualification
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
+`2007` [Primary School: Rabenschule 4th grade](https://www.gs-pullach.de)
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2003-2006` [Primary School: Pater-Rupert-Mayer-Grundschule](https://www.prmvs.de)
 
 ## Skills
 
-### General Tech Stacks
+## General Tech Stacks
 - Architecture Design
 - Desktop App Development
 - Web Development (Frontend & Backend)
+- Robotic engeneering
+- Robotic Software Stack
+  - ROS
+  - Robotic Library
+- Unity 
 
-### Programming languages
+## Programming languages
 - C# .NET
 - Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
 - C++
+- C
 - Java
-- VB.NET/VBA
 
-## Certificates
-- Certified Public Accountant (Taiwan)
+## Databases
+- PostgreSQL
+- MySQL
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+## Cloud
+- Heroku
+
+## Vcs
+- Git
+- Docker
 
 ## Languages
+**German**: Native
 **English**: C1
-**Chinese**: Native
+**Turkish**: B1
+**French**: B1
