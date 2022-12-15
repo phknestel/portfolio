@@ -25,6 +25,7 @@
   - Imaging layout
 
 - _**Technologies used:**_ JS, CSS, HTML, Python
+- [Final Presentation](https://github.com/phknestel/PresentationsAndFiles/blob/main/01_Philipp_FinalPresentation.pdf)
 
 &nbsp;
 
