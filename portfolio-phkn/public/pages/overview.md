@@ -139,3 +139,6 @@ Well-versed in numerous programming languages including C# .NET, Python and Java
 **English**: C1
 **Turkish**: B1
 **French**: B1
+
+
+This page is forked annd changed by me from [noworneverev](https://github.com/noworneverev/react-vscode-portfolio)
