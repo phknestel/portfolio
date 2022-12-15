@@ -1,4 +1,19 @@
 # 🧪 Projects
+## [Roboy](https://roboy.github.io/rollbody/) 🔗
+
+- Rollbody allows a remote operator wearing a VR headset to have an immersive telepresence experience. This **robot** was built as a university project in the summer semester of 2022.
+- Challange:
+  - Our robot's big brother Roboy does not walk on his two legs yet. Therefore, as our main challenge we wanted to build a mobile telepresence robot that is operated through remote control in a virtual reality environment.
+  - In order to develop an intuitive and immersive telepresence experience, we also researched relative topics on computer vision, control, etc.
+- Target: 
+  - Height Control
+  - Power
+  - Locomotion
+  - Head Animation
+  - VR Unity App
+  - 180° Stereo Vision
+
+- _**Technologies used:**_ java, Unity, Python, ROS2, C#
 
 ## [cvat-PDMS](https://github.com/phknestel/cvat-PDMS) 🔗
 
