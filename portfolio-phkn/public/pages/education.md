@@ -3,6 +3,7 @@
 `- today` [TUM Technical University Munich](https://www.tum.de)
 - **M. Sc. RCI Robotic, Cognition & Intelligence**
 - Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical, Cognitive Systems ...
+- Masters Thesis: Evaluation and Comparative Analysis of Approaches for the Refinement and Completion of 3D Point Clouds from 2D Sonar Data | Grade: -
 - 120 ETCS
 
 &nbsp;
