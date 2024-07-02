@@ -18,7 +18,7 @@ Does a visualization of robot states by means of augmented reality improve the c
 &nbsp;
 
 <div style="border: 2px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 15px; display: inline-block; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #333;">Download My Thesis Here</h3>
+    <h3 style="color: #333;">Download my thesis here</h3>
     <a href="/portfolio/presentation_and_thesis/Thesis.pdf" download>
         <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #006EE5; color: #fff; border: none; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
             <span style="vertical-align: middle;">⬇️</span> Download Thesis PDF
@@ -26,10 +26,14 @@ Does a visualization of robot states by means of augmented reality improve the c
     </a>
 </div>
 
+
 <div style="border: 2px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 15px; display: inline-block; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #333;">View My Keynote Presentation</h3>
-    <iframe src="/portfolio/presentation_and_thesis/BA_Presentation/index.html" width="400%" height="200px">
-        Your browser does not support iframes. You can view the presentation <a href="/portfolio/presentation_and_thesis/index.html">here</a>.
-    </iframe>
+    <h3 style="color: #333;">Download the presentation here</h3>
+    <a href="/portfolio/presentation_and_thesis/BA_presentation.pdf" download>
+        <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #006EE5; color: #fff; border: none; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
+            <span style="vertical-align: middle;">⬇️</span> Download PDF
+        </button>
+    </a>
 </div>
+
 
