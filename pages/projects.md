@@ -26,11 +26,14 @@
 
 - _**Technologies used:**_ JS, CSS, HTML, Python
 
+
 <div style="border: 2px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 15px; display: inline-block; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #333;">View My PDF Presentation</h3>
-    <iframe src="/portfolio/presentation_and_thesis/01_Philipp_FinalPresentation.pdf" width="400%" height="200px">
-        Your browser does not support iframes. You can view the PDF <a href="/portfolio/presentations/presentation.pdf">here</a>.
-    </iframe>
+    <h3 style="color: #333;">Download the presentation here</h3>
+    <a href="/portfolio/presentation_and_thesis/01_Philipp_FinalPresentation.pdf" download>
+        <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #006EE5; color: #fff; border: none; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
+            <span style="vertical-align: middle;">⬇️</span> Download PDF
+        </button>
+    </a>
 </div>
 
 &nbsp;
