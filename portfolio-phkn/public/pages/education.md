@@ -1,9 +1,10 @@
 # 👨‍🎓 Education
 
-`- today` [TUM Technical University Munich](https://www.tum.de)
+`2021-2024` [TUM Technical University Munich](https://www.tum.de)
+- Arcisstraße 21, 80333 München
 - **M. Sc. RCI Robotic, Cognition & Intelligence**
 - Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical, Cognitive Systems ...
-- Masters Thesis: Evaluation and Comparative Analysis of Approaches for the Refinement and Completion of 3D Point Clouds from 2D Sonar Data | Grade: -
+- Masters Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net  | Grade: -
 - 120 ETCS
 
 &nbsp;
