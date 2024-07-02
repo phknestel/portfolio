@@ -6,4 +6,5 @@ export const pages = [
   { index: 4, name: 'projects.md', route: '/projects' },
   { index: 6, name: 'bachelors_thesis.md', route: '/bachelors_thesis' },
   { index: 7, name: 'masters_thesis.md', route: '/masters_thesis'},
+  { index: 8, name: 'Publications_and_Awards.md', route: '/Publications_and_Awards'}
 ];
