@@ -28,7 +28,7 @@ Does a visualization of robot states by means of augmented reality improve the c
 
 <div style="border: 2px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 15px; display: inline-block; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #333;">View My Keynote Presentation</h3>
-    <iframe src="/portfolio/presentation_and_thesis/index.html" width="100%" height="600px">
+    <iframe src="/portfolio/presentation_and_thesis/BA_Presentation/index.html" width="100%" height="600px">
         Your browser does not support iframes. You can view the presentation <a href="/portfolio/presentation_and_thesis/index.html">here</a>.
     </iframe>
 </div>
