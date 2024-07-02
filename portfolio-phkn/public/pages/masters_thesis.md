@@ -26,11 +26,12 @@ This thesis introduces a method for completing, refining, and reconstructing poi
 
 <div style="border: 2px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 15px; display: inline-block; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #333;">Download My Thesis Here</h3>
-    <a href="/portfolio-phkn/build/presentation_and_thesis/Master_Thesis_Philipp_Knestel.pdf" download>
+    <a href="/portfolio/presentation_and_thesis/Master_Thesis_Philipp_Knestel.pdf" download>
         <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #006EE5; color: #fff; border: none; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
             <span style="vertical-align: middle;">⬇️</span> Download Thesis PDF
         </button>
     </a>
 </div>
+
 
 
