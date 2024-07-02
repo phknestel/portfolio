@@ -8,6 +8,9 @@
 - Robotic Software Stack
   - ROS
   - Robotic Library
+  - Gazebo
+  - MoveIt
+  - MATLAB
 - Unity 
 
 ## Programming languages
@@ -18,6 +21,12 @@
 - C++
 - C
 - Java
+
+## Machine Learning
+- PyTorch
+- TensorFlow
+- OpenCV
+- NumPy
 
 ## Databases
 - PostgreSQL
