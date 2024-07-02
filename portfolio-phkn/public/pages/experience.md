@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-`10.2021 - today` **Student Research Assistant / Working Student** @ [TUM Technical University Munich | Chair of Robotics, Artificial Intelligence and Real-time Systems](https://www.ce.cit.tum.de/air/home/)
+`10.2021 - 10.2023` **Student Research Assistant / Working Student** @ [TUM Technical University Munich | Chair of Robotics, Artificial Intelligence and Real-time Systems](https://www.ce.cit.tum.de/air/home/)
 
 - Build / Implement a Robot Factory in Unity 
   - Task:
