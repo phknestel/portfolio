@@ -26,7 +26,7 @@ This thesis introduces a method for completing, refining, and reconstructing poi
 
 <div style="border: 2px solid #000; padding: 10px; background-color: #f9f9f9; display: inline-block;">
     <h3>Download My Thesis Here</h3>
-    <a href="../my_thesis.pdf" download>
+    <a href="../Master_Thesis_Philipp_Knestel.pdf" download>
         <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">
             <img src="https://img.icons8.com/ios-filled/24/000000/download.png" style="vertical-align: middle;" /> Download Thesis PDF
         </button>
