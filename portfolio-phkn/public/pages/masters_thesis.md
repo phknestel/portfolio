@@ -1,6 +1,9 @@
-# 🧪 Bachelors Thesis
+# 🧪 Master's Thesis
 
-## Evaluation and Comparative Analysis of Approaches for the Refinement and Completion of 3D Point Clouds from 2D Sonar Data
+
+Completed my master’s thesis at the University of Tokyo in the Department of Human and Engineered Environmental Studies. Collaborated with Assoc. Prof. Dr. Wang and Nico Reeb from TUM to develop an innovative method for creating 3D point clouds from 2D sonar images. This method focuses on reconstructing, refining, and completing the 3D models, effectively addressing the challenges posed by strong noise in sonar data.
+
+## Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net
 
 **Persons involved:**
 - [Dr. Yusheng Wang | The University of Tokyo](https://www.t.u-tokyo.ac.jp/en/topics/foee/topics/setnws_202106161438080149966770.html)
@@ -21,4 +24,6 @@
 
 This thesis introduces a method for completing, refining, and reconstructing point clouds de- rived from 2D sonar images using the Point Cloud Transformer with Morphing Atlas-based Point Generation Network for Dense Point Cloud Completion (PCTMA-Net). The primary objective is to evaluate the effectiveness of PCTMA-Net in addressing sonar noise, interpolat- ing missing regions, and enhancing the accuracy of 3D reconstructions. This is particularly crucial for applications that require precise 3D models from limited 2D sonar images, such as underwater navigation and mapping. To thoroughly assess the network’s adaptability, various data sets are utilized, generated both experimentally in a real-world environment and synthetically using Blender. These data sets simulate different noise levels and data ir- regularities typical of underwater imaging scenarios. The study generates single-object and multi-object scenes, with PCTMA-Net initially implemented for noise-free single-object recon- struction. The architecture of the PCTMA network is iteratively modified based on interim results that reveal artefacts, ensuring continuous improvement. Pre-trained weights are com- bined with the generated data sets to train different configurations of the PCTMA-Net. The evaluation compares the network’s performance on single-object, multi-object, and combined datasets with various configurations to identify the most effective approaches for managing noise and improving sonar-based 3D completion and refinement tasks. The single-object and multi-object datasets achieve very different results, partly due to artificial bridging in the multi-object dataset results. Ultimately, this study seeks to contribute to the advancement of precise underwater mapping technologies by investigating PCTMA-Net’s capabilities in han- dling noise and discovering potential enhancements for 3D reconstruction from sonar data.
 
+**Download My Thesis:**
 
+[![Download Thesis PDF](https://img.icons8.com/ios-filled/50/000000/download.png)](../Master_Thesis_Philipp_Knestel.pdf)
