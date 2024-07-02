@@ -4,7 +4,7 @@
 - Arcisstraße 21, 80333 München
 - **M. Sc. RCI Robotic, Cognition & Intelligence**
 - Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical, Cognitive Systems ...
-- Masters Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net  | Grade: -
+- Master's thesis @ The University of Tokyo: Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net  | Grade: -
 - 120 ETCS
 
 &nbsp;
