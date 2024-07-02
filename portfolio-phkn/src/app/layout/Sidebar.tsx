@@ -22,10 +22,12 @@ export default function Sidebar({
 }: Props) {
   return (
     <Box
-      sx={{
-        height: `calc(100vh - 20px)`,
-        backgroundColor: darkMode ? "#333333" : "#2c2c2c",
-      }}
+    sx={{
+      height: `calc(100vh - 20px)`,
+      backgroundColor: darkMode ? "#333333" : "#2c2c2c",
+      width: expanded ? 240 : 0,  // Adjust the width based on the expanded state
+      transition: 'width 0.3s',    // Smooth transition for width change
+    }}
       justifyContent="space-between"
       display="flex"
       flexDirection="column"
