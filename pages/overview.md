@@ -4,6 +4,7 @@
 
 Robotics student with experience in all stages of prototyping. Strong background in Unity and robot navigation in ROS as well as parameter tuning and fusion of sensor data.
 Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Stronger experience in web development, co-designed and built solutions.
+As a master thesis project I am denoising, refining, reconstructing and completing point clouds derived from 2D sonar images to use these informations for navigation tasks.
 
 
 ## Experience
