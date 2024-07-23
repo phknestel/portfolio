@@ -87,7 +87,7 @@ As a master thesis project I am denoising, refining, reconstructing and completi
 `2021-2024` [TUM Technical University Munich](https://www.tum.de)
 - **M. Sc. RCI Robotic, Cognition & Intelligence**
 - Courses: Robotics, Motion planing, Machine learning, Quantum Computation, Roboy practical ...
-- Master's thesis: Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net | Grade: -
+- Master's thesis: Completion, Reconstruction and Refinement of 3D Point Clouds Derived from 2D Sonar Images Using PCTMA-Net | Grade: 1.0
 - 120 ETCS
 
 `2017–2021` [TUM Technical University Munich](https://www.tum.de)
