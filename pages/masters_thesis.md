@@ -18,7 +18,7 @@ Completed my master’s thesis at the University of Tokyo in the Department of H
 
 &nbsp;
 
-Grade: -
+Grade: 1.0
 
 **Abstract:**
 
